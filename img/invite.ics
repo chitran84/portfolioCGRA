@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//Splash Event Planning System
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220302T023555Z
+UID:8098eb7c0c032c6dd3da606b28b0e02d236da883@muvdd02032022.s
+ plashthat.com
+URL:https://muvdd02032022.splashthat.com/virtual?guest-acces
+ s-hash=NDU4Mjk5MzU2fDQ3ODcyMjgzNXwxNjQ2MTg4NDg2O2YzNDNmMDM4Y
+ zIyNjA0ZjUzNDE3Y2JmOGE3MzE3ZGQxYzM5ZWI2YTBkZTk5ZDI5ZmVmMTRjY
+ zg5NzIzOTU3MzU%3D
+DTSTART:20220302T070000Z
+DTEND:20220302T090000Z
+ORGANIZER;CN="Ian De Santos":mailto:muvdd02032022@splash.too
+ ls
+SUMMARY:Monash University Cybersecurity and UX/UI Bootcamps 
+ Virtual Demo Day
+DESCRIPTION:Here is your unique link - https://muvdd02032022
+ .splashthat.com/virtual?guest-access-hash=NDU4Mjk5MzU2fDQ3OD
+ cyMjgzNXwxNjQ2MTg4NDg2O2YzNDNmMDM4YzIyNjA0ZjUzNDE3Y2JmOGE3Mz
+ E3ZGQxYzM5ZWI2YTBkZTk5ZDI5ZmVmMTRjYzg5NzIzOTU3MzU%3D\n\nFor 
+ the best experience, join this meeting on your desktop
+LOCATION:TBD
+END:VEVENT
+END:VCALENDAR
